@@ -8,11 +8,11 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: pizzaibot # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/pizzaibot-avatar.jpg # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Atende os seus clientes por você! # Optional
+marketing_desc: O Pizzaibot é um assistente virtual com um pouquinho de inteligência artificial. Ele vai atender aos seus clientes e registrar os pedidos da sua pizzaria, enquanto você cuida do resto!
 
 #
 # Social Links
@@ -52,11 +52,11 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 #
 social-links:
   github:
-  facebook:
+  facebook: https://www.facebook.com/pg/Pizzaibot-278383016327989
   twitter:
   pinterest:
   instagram:
-  email:
+  email: pizzaibot@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -81,7 +81,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: /images/backgrounds/71-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
@@ -126,3 +126,5 @@ sass:
 exclude:
   - LICENSE
   - README.md
+
+markdown: kramdown
