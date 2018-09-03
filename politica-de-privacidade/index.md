@@ -110,9 +110,9 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 https://www.pizzaibot.com
 
-Rua Cruz Machado, nro 217
+Rua Benjamin Cavet, nro 11
 
-Curitiba, PR 80410170
+Curitiba, PR 82300-330
 
 Brazil
 
@@ -186,9 +186,9 @@ Se tiverem dúvidas sobre essa política de privacidade, você pode nos contacta
 
 www.pizzaibot.com
 
-Rua Cruz Machado, 217
+Rua Benjamin Cavet, 11
 
-Curitiba, PR 80410170
+Curitiba, PR 82300330
 
 Brazil
 
